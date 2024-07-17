@@ -1,0 +1,11 @@
+The Situation:
+I was hired as a data analyst by the newly elected franchise owner 'Alex' by Maven Rosters, a coffee shop chain with 3 Locations in New York City
+
+The Assignment:
+To better understand the purchase history and streamline operations, Alex has provided me the Transaction data from Jan to Jun 2023.
+My goal is to transform the data into dynamic dashboard that franchise owner can use to identify patterns, trends and opportunities for the business.
+
+The Objectives:
+1. Profile and Prepare the raw data for analysis
+2. Explore the data with Excel Pivot tables
+3. Build a dynamic dashboard to visualize patterns and trends
